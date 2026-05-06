@@ -1,7 +1,7 @@
 # Shoe Sort Puzzle
 
 ## Video Gameplay
-[Watch Gameplay]([link](https://drive.google.com/file/d/162M7iQ1N563OK2zuQ86Z26sQD_AP8-Yg/view?usp=drive_link)v)
+[Watch Gameplay](https://drive.google.com/file/d/162M7iQ1N563OK2zuQ86Z26sQD_AP8-Yg/view?usp=drive_link)
 
 ## APK
 [Download APK](link)
